@@ -2,7 +2,7 @@ import foto from "./foto.jpeg";
 
 function Profile() {
     return (
-      <img
+      <Image
         src= {foto.src}
         alt="Allram"
         className="foto"
